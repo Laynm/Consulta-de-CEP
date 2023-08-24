@@ -7,7 +7,7 @@ Projeto desenvolvido pra consulta simples de CEP <br/>
 <p align="center">
   <a href="#🚀-technologias">Technologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#💻-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licença">Licença</a>
+  <a href="#licença">Licença</a> |
   <a href="#como-utilizar">Como Utilizar?</a>
 </p>
 
